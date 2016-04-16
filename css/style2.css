@@ -1,0 +1,85 @@
+.sports{text-align:center;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5b5b5b+1,adadad+100 */
+background: rgb(91,91,91); /* Old browsers */
+text-shadow: #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px,
+             #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px;
+			 -webkit-font-smoothing: antialiased;
+font-weight: bold;
+color:white;
+
+
+}
+.navbar-default .navbar-brand:hover{
+    color: black;
+}
+
+
+.bball{margin-bottom: 20px;}
+.baseball{margin-bottom: 20px;}
+.fball{margin-bottom: 20px;}
+.hockey{margin-bottom: 20px;}
+
+
+
+img.effect:hover{opacity:0.4;
+
+}
+
+
+.navbar-default{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff3019+0,cf0404+100;Red+3D */
+background: rgb(255,48,25); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(255,48,25,1) 0%, rgba(207,4,4,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(255,48,25,1) 0%,rgba(207,4,4,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(255,48,25,1) 0%,rgba(207,4,4,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cf0404',GradientType=0 ); /* IE6-9 */
+color: white;
+	
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+	
+	}
+
+
+.navbar-header{background: red;}
+
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+
+.navbar-default .navbar-nav > li > a:hover {
+    background-color: red;
+    color: white;
+}
+		 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+background-color: red;
+color: white;
+    }
+	
+	
+		.navbar-default .navbar-nav .open .dropdown-menu > li  > a :hover{
+   color: black;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {background: red;color:white;}	
+	
+.navbar-default .navbar-brand {	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff3019+0,cf0404+100;Red+3D */
+background: rgb(255,48,25); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(255,48,25,1) 0%, rgba(207,4,4,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(255,48,25,1) 0%,rgba(207,4,4,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(255,48,25,1) 0%,rgba(207,4,4,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cf0404',GradientType=0 ); /* IE6-9 */
+	
+	color:white;}
+
+
+
+
+
+	
+	
+	
